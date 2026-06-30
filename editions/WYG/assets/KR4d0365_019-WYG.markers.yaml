@@ -1,0 +1,11 @@
+canonical_identifier: bkk:krp/KR4d0365/WYG/v1/markers/19
+seq: 19
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR4d0365_WYG_019-front01}
+  - {type: 'kr:newline', offset: 1, content: '
+
+      ', id: KR4d0365_WYG_019-bkkkrnewl1}
+  back: []
+hash: sha256:b2f82bfd759366286e3c6352ee23a56f18593ff74a2340c1d1be5b47af2da8bc

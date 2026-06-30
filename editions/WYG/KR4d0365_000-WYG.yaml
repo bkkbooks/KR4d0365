@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0365/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 文山先生全集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 15:16:29.089620'
+  source:
+    repository: kanripo
+    path: KR4d0365/KR4d0365_000.txt
+hash: sha256:a9cfab33334621e20af7470fb1b58da2d81bde10c91646c40ae020375b1c78f1
